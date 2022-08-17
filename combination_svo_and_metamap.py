@@ -30,10 +30,7 @@ def handleMMres(mmres_filepath):
                 no_map_para_sent_pairs.append((i,j))
             mmap_phrases_txt = []
             phrase_to_sem = {}
-        # for sent in sents:
-        #     phrases = sent['Phrases']
-        #     UttText = sent['UttText']
-            # 遍历每一句话的phrase
+
             for phrase in phrases:
                 phrase_text = phrase['PhraseText']
                 mmap_phrases_txt.append(phrase_text)
@@ -75,7 +72,7 @@ def getSVOs_w_sem_and_wo_sem(all_paras_uttexts,all_paras_Sems):
         para_triplets_wo_sem = []
 
         for j, utt in enumerate(para):
-            ##TODO 去除自定义stopwords
+            ##TODO
             u_doc = nlp(utt)
 
             utt_svos = getSVOs(u_doc.text)
@@ -127,8 +124,7 @@ def getSVOs_w_sem_and_wo_sem(all_paras_uttexts,all_paras_Sems):
                 else:
                     sent_triplet_wo_sem_sorted = sorted(_triplets_wo_sem_to_scores.items(), key=lambda x: -x[1])
                     triples_outputs = sent_triplet_wo_sem_sorted[:4]
-                    # for output in triples_outputs:
-                    #     sent_triplet_wo_sem.append(output[0])
+
                     _wo_svos = []
                     for output in triples_outputs:
                         _wo_svos.append(output[0])
@@ -179,21 +175,4 @@ if __name__ == "__main__":
 
     write_file("data/final_wo_sem.txt", svo_wo_sem)
     write_file("data/final_w_sem.txt", svo_w_sem)
-    # with open('data/final_wo_sem.txt','w') as fw:
-    #     for i,  _para in enumerate(c):
-    #         fw.write("Abstract " + str(i))
-    #         fw.write("\n")
-    #         for _sent in _para:
-    #                 for svos in _sent:
-    #                     if len(svos) > 1:
-    #                         for svo_ in svos:
-    #                             fw.write(svo_)
-    #                             fw.write("\t")
-    #
-    #                     else:
-    #                         res = ' '.join(svos)
-    #                         fw.write(res)
-    #                         fw.write("\t")
-    #
-    #                 fw.write("\n")
-    #         fw.write("\n")
+
