@@ -1,0 +1,525 @@
+Abstract 0
+Anti-CD20 antibodies||react with||CD20	antibodies||react with||CD20	
+It||has||has reported	
+we||investigated||investigate	we||investigated||To investigate	we||investigate||efficacy of third dose	we||investigated||serum IgG antibody titers	
+
+
+improving seroconversion rate||is in||patients treated with anti-CD20 antibody	third dose||is effective in||improving seroconversion rate	third dose||is effective in||improving seroconversion rate in patients	third dose||is effective in||seroconversion rate in patients treated with anti-CD20 antibody	
+
+Abstract 1
+Forecast intervals||have||have overconfident	Forecast intervals||have||have long overconfident	
+
+main cause||lies for||uncertainty quantification	main cause||lies in||misapplication of textbook methods	cause||lies for||uncertainty quantification	cause||lies in||misapplication of textbook methods	
+solution||obtain||valid interval coverages	solution||obtain||interval coverages	solution||lies||obtain	solution||lies in||creative use of predictive tail probabilities	
+
+
+Abstract 2
+COVAX program||aims||provide	COVAX program||provide||global equitable access to life saving vaccines	COVAX program||provide||global equitable access to saving vaccines	COVAX program||provide||equitable access to life saving vaccines	
+vaccine protectionism||However has limited||progress towards vaccine sharing goals	vaccine protectionism||has limited||progress towards vaccine sharing goals	vaccine protectionism||However has limited||progress	vaccine protectionism||has limited||progress	
+population||is in||Africa	
+two nation epidemic model||evaluate given||selfish objectivein	two nation epidemic model||evaluate policies given||selfish objectivein	we||use||evaluate given selfish objectivein	two nation epidemic model||evaluate given||objectivein	
+we||find||selfish objective	we||find||objective	we||find objective Despite||selfish objective	we||find Despite||selfish objective	
+intensity||sharing||vaccine stockpile	sharing||reduces intensity in||donor nation	sharing||reduces||intensity of outbreaks	sharing||reduces in||donor nation	
+effect||is intensified||as vaccination rates decrease	effect||is intensified||vaccination rates decrease	effect||is||intensified	
+
+reducing fatalities||is in||donor nation	fatalities||is in||donor nation	
+findings||provide||share with other nations	findings||provide||rationale for nations	findings||provide||to share with other nations	findings||provide||share with nations	
+
+Abstract 3
+transmission||is often seasonal In||malaria endemic regions	transmission||is seasonal In||malaria endemic regions	transmission||is often seasonal with||very low transmission	transmission||is often seasonal In||malaria regions	
+prolonged carriage||are thought||seed	Parasites||survive||dry season	Parasites||survive||season	prolonged carriage||are thought||seed in next transmission season	
+We||use||combination of mathematical simulations	We||use||combination of simulations	We||use to||dry season carriers	We||use to||season carriers	
+dry season carriage||is more likely in||oldest	season carriage||is more likely in||oldest	dry season carriage||is likely in||oldest	season carriage||is likely in||oldest	
+carriers||experience||higher biting rate at beginning of next transmission season	carriers||experience||higher biting rate at beginning of transmission season	carriers||experience||biting rate at beginning of next transmission season	carriers||experience||biting rate at beginning of transmission season	
+exposed individuals||is in||community	
+
+Abstract 4
+we||have constructed||Mathematical model for transmission dynamics of TB	we||have constructed||Mathematical model for transmission dynamics	we||have constructed||Mathematical model	we||have constructed In||work	
+solutions||are||positive	Feasibility||is||established	Mathematical model||is||well posed	Mathematical model||is||posed	
+basic reproduction number R0||is||computed	reproduction number R0||is||computed	equilibrium DFE||is||also determined	equilibrium DFE||is||determined	
+Sensitivity analysis||find||model parameters	Sensitivity analysis||is conducted||find	Sensitivity analysis||is conducted||to find	Sensitivity analysis||is||conducted	
+TB||induced||death d	Mathematical model||was observed through||sensitivity analysis	high impact||varies inversely with||R0	high impact||varies with||R0	
+simulation||was||performed	Graphical simulation||was||performed	
+Graphical simulation||was||observed	model parameters||are directly proportional to||reproduction numberR0	simulation||was||observed	model parameters||are proportional to||reproduction numberR0	
+basic reproduction number R0||is decreasing function of||recovery rate gamma	reproduction number R0||is decreasing function of||recovery rate gamma	basic reproduction number R0||is function of||recovery rate gamma	Graphical simulation||is||observed	
+
+Abstract 5
+exploitation affects||is||characterized	Trafficking affects||is||characterized	exploitation||Trafficking for||sex	Trafficking exploitation affects||is||characterized	
+
+Our objective||was examine||extent	
+
+dataset||contain||3,967 instances of 2018 new ICD 10 codes	dataset||contain||3,967 instances of 2018 ICD 10 codes	dataset||was found||contain	dataset||was found||to contain	
+new ICD 10 codes||admitting||diagnosis	new ICD codes||admitting||diagnosis	ICD 10 codes||admitting||diagnosis	ICD codes||admitting||diagnosis	
+Regression analysis||found||2 increase in adoption of 2018 new ICD 10 codes	Regression analysis||found||2 increase in adoption of 2018 ICD 10 codes	Regression analysis||found||2 increase in adoption	Regression analysis||found||2 increase	
+2018 new ICD 10 codes||were used majority by||1,532 distinct providers	2018 new ICD 10 codes||were used by||1,532 distinct providers	new ICD 10 codes||were used majority by||1,532 distinct providers	new ICD 10 codes||were used by||1,532 distinct providers	
+trafficking||corresponds to||90.1	data||contained||2301 patients	trafficking||corresponds to||identification of latter patients	trafficking||corresponds to||identification of patients	
+latter patients||were||predominantly female	patients||were||predominantly female	latter patients||were||female	patients||were||female	
+victims||were characterized by||high prevalence of mental health conditions	victims||were characterized by||prevalence of mental health conditions	victims||were characterized by||high prevalence of health conditions	victims||were characterized by||prevalence of health conditions	
+
+2018 new ICD 10 codes||provide||valuable insights into profiles	2018 new ICD 10 codes||provide||valuable insights into profiles of victims	new ICD 10 codes||provide||valuable insights into profiles	2018 new ICD 10 codes||provide||insights into profiles	
+majority||are||likely still	majority||diagnosed by||2018 new ICD 10 codes	majority||diagnosed by||2018 ICD 10 codes	majority||are||likely	
+
+
+Abstract 6
+have few efforts||made cytomorphological categorization of bone marrow cells to||automate	have efforts||made cytomorphological categorization of bone marrow cells to||automate	There have few efforts||made cytomorphological categorization of bone marrow cells to||automate	There have efforts||made cytomorphological categorization of bone marrow cells to||automate	
+deep learning algorithms||have||have limited to small number of samples	deep learning algorithms||have||For bone marrow cell categorization have limited	learning algorithms||have||have limited to small number of samples	deep learning algorithms||have||have limited to number of samples	
+pipeline||classify||bone marrow cells	we||proposed In||paper	pipeline||classify despite||limitations	pipeline||classify bone marrow cells despite||limitations	
+Data augmentation||resolve||class imbalances	Data augmentation||was used throughout||data	Data augmentation||was||used	
+
+proposed CoAtNet model||used in||pipeline	CoAtNet model||used in||pipeline	proposed CoAtNet model used||was||CoAtNet	CoAtNet model used||was||CoAtNet	
+we||analyzed||CoAtNet model	we||analyzed||CoAtNet model using	
+proposed CoAtNet model||evaluating||three models performance for each of distinct morphological classes	proposed CoAtNet model||evaluating||three models performance for each of morphological classes	proposed CoAtNet model||evaluating||three models performance for each of distinct classes	CoAtNet model||evaluating||three models performance for each of distinct morphological classes	
+
+Abstract 7
+Reagents||monitor||T cell responses	Reagents||monitor based||well characterized epitopes	Reagents||monitor based||characterized epitopes	Reagents||monitor to||entire HIV genome	
+T cell responses||Evaluation of is||importance study	T cell responses||Evaluation of is||importance to study	Evaluation||is of||importance study	Evaluation||is of||importance to study	
+derived CD4 HIV epitopes||were developed into||Class	CD4 HIV epitopes||were developed into||Class	derived CD4 HIV epitopes||were||developed	CD4 HIV epitopes||were||developed	
+We||assessed||HIV responses in persons	We||assessed||HIV responses in persons with	We||assessed||HIV responses	HIV responses||is in||persons with	
+We||quantified||HIV specific	We||Using||Activation Induced Marker AIM assay	
+We||compared to||commercially available HIV gag peptide pools	We||compared||Class	We||compared to||available HIV gag peptide pools	We||also compared to||commercially available HIV gag peptide pools	
+HIV Class II MP||detected||HIV specific CD4 T cells	HIV Class II MP||detected in||21/35 60 HIV positive samples	HIV Class II MP||detected in||21/35 60 HIV samples	HIV Class II MP||detected||CD4 T cells	
+HIV Class I MP||detected||HIV specific CD8 T cells	HIV Class I MP||detected in||17/35 48.6 HIV positive samples	HIV Class I MP||detected in||17/35 48.6 HIV samples	HIV Class I MP||detected||CD8 T cells	
+its performance||is comparable to||other commercially available peptide pools	its performance||is comparable to||commercially available peptide pools	its performance||is comparable to||other available peptide pools	its performance||is comparable to||available peptide pools	
+We||detected||HIV specific	We||Here detected||HIV specific	CD4||is in||people on cART	
+
+Abstract 8
+Food insecurity||is highly prevalent among||people with HIV	Food insecurity||is prevalent among||people with HIV	Food insecurity||is highly prevalent among||people	Food insecurity||is prevalent among||people	
+nutrient poor food assistance programs||increase||risk for other chronic diseases	nutrient food assistance programs||increase||risk for other chronic diseases	
+process evaluation||provide||tailored food assistance to adults	case study||describes||provide	process evaluation||provide||tailored food assistance to adults with HIV	case study||describes||process evaluation of novel clinic community partnership	
+semi-structured interviews||is with||program staff	
+new program||enabled||re-engage in HIV care	new program||enabled||to re-engage in HIV care	program||enabled||re-engage in HIV care	program||enabled||to re-engage in HIV care	
+program implementation reviewed||can serve as||roadmap to develop	program implementation reviewed||can serve as||roadmap develop	
+
+Abstract 9
+enables model training||is with||limited datasets	
+use||is in||healthcare	
+GPT 2||investigate||performance of GPT 2	GPT 2||investigate||performance for medical text prediction	GPT||investigate||performance of GPT 2	GPT||investigate||performance for medical text prediction	
+
+model||tested on||remaining 10	model||validated on||10	model||was||trained	
+GPT 2 report model performance||is in||terms of next word prediction accuracy	
+GPT 2||analyze performance on||different types of prediction tokens	GPT||analyze performance on||different types of prediction tokens	GPT 2||analyze performance on||types for categories	GPT 2||Additionally analyze performance on||different types of prediction tokens	
+GPT 2||annotate token by||category	GPT||annotate token by||category	GPT 2||annotate token in||100 randomly sampled notes	GPT||annotate token in||100 randomly sampled notes	
+
+
+GPT Neo53||performs for||especially names	GPT Neo53||also performs for||especially names	GPT Neo53||performs better for||especially names	GPT Neo53||also performs better for||especially names	
+pre-trained models||have||potential	models||have||potential	
+lessons||suggestions for||future implementations	
+pre-trained models||have||potential	models||have||potential	
+
+
+Abstract 10
+majority||have come from||Asia	
+paucity||is in||particularly terms of hospitalization co-morbidities	paucity||is in||terms of hospitalization co-morbidities	paucity||is in||particularly terms	paucity||is in||terms	
+study||set||analyze from 1997 to 2012	study||set||to analyze from 1997 to 2012	study||set||to analyze	study||set forth||analyze from 1997 to 2012	
+Data||were||analyzed	Data||were analyzed for||age	
+multivariate regression analysis||was performed||assess	regression analysis||assess||impact of Kawasaki Disease	regression analysis||assess||impact on coronary artery aneurysms	multivariate regression analysis||was performed||to assess	
+multivariate regression analysis||was performed||assess	regression analysis||assess||impact of Kawasaki Disease	regression analysis||assess||impact on coronary artery aneurysms	multivariate regression analysis||was performed||to assess	
+Patients||hospitalized for||Kawasaki Disease	
+Patients||have||congenital heart disease	Patients||were||less likely	Patients||is with||Kawasaki Disease	Patients||have||heart disease	
+Patients||have||congenital heart disease	Patients||were||less likely	Patients||is with||Kawasaki Disease	Patients||have||heart disease	
+Kawasaki Disease||had||mortality	Kawasaki Disease||had||lower mortality	
+
+
+Abstract 11
+profile||includes||patients with different age groups	profile||includes||patients with age groups	profile||includes||patients	profile||is in||coronary care units CCU	
+survival time||evaluate||association	survival time||evaluate||association of different factors	survival time||evaluate||association of factors	survival time||evaluate on||time	
+
+descriptive analysis||was||performed	analysis||was||performed	
+Survival regression||was||modeled	
+p value||was defined as||statistically significant	p value||was defined as||inverted exclamation 0.05	p value||was defined as||exclamation 0.05	p value||was defined as||significant	
+higher average age||all with||p inverted exclamation 0.00	higher average age||was In||patients	average age||was In||patients	higher age||was In||patients	
+survival probability curve||reaching||stable value	survival probability curve||presented||higher inclination	survival probability curve||reaching||value	survival probability curve||presented||inclination	
+hyperpotassemia||was shown||independent risk factor for in hospital mortality RR 22	hyperpotassemia||was shown||to independent risk factor for in hospital mortality RR 22	hyperpotassemia||was shown||to risk factor for in hospital mortality RR 22	hyperpotassemia||was shown||risk factor for in hospital mortality RR 22	
+electronic health record||contain||relevant information	electronic health record||contain||understand	electronic health record||understand||progression of diseases	electronic health record||contain||to understand	
+important topics||enable||research	important topics related||enable||research	important topics||enable||research using	study||clarify||important topics	
+Knowledge||can allow||management of hospital resources	Knowledge||can allow||better management of hospital resources	Knowledge||can allow||better management of physical hospital resources	Knowledge||can allow||better management	
+
+Abstract 12
+
+VE studies||have found||highly effective	VE studies||have found||to highly effective	clinical trial data||have demonstrated||enhanced immunity	VE studies||have found||effective	
+individuals||received In||England	individuals||received||ChAdOx1 S booster	individuals||received ChAdOx1 S booster In||England	vaccination||was||contraindicated	
+demographic characteristics||were compared to||those	demographic characteristics||were||compared	characteristics||were compared to||those	characteristics||were||compared	
+case control design||estimate||vaccine effectiveness of ChAdOx1 S booster	case control design||estimate||vaccine effectiveness of ChAdOx1 S booster in England	case control design||estimate||vaccine effectiveness of ChAdOx1 S booster against disease	case control design||estimate||vaccine effectiveness of ChAdOx1 S booster against disease in England	
+those||were||more likely	those||were||likely	those||be||female adjusted odds ratio	those||be||adjusted odds ratio	
+
+Protection||waned to||44.5 22.4	
+Protection||receiving||ChAdOx1 S booster	Protection||peaked as||as 90.9 88.7 to 92.7 for those	Protection||receiving in||England	Protection||receiving against||symptomatic disease	
+Differences||boosted in||England	Differences||boosted with||ChAdOx1 S	Differences||is in||population	
+study||supports||use for protection against severe disease	study||supports||use for protection against disease	study||supports||use of ChAdOx1 S booster	study||supports||use for protection against severe disease with COVID 19	
+
+Abstract 13
+Wuhan||China in||2019	China||is in||2019	outbreak||has affected||lives	outbreak||has affected globally||lives	
+decision makers strategies||control||pandemic	reproduction number||explain||control	reproduction number||explain||decision makers strategies	reproduction number||explain||to control	
+
+Google||consider||mobility reductions	efficacy values||is in||region	
+reductions||reports||ii reduction	following reductions||reports||ii reduction	following reductions||is in||observed effective reproduction numbers of pandemici reduction	Google||quantify in||region	
+initial wave||is in||countries	mobility reduction||stave off||wave in countries	mobility reduction||stave off||initial wave in countries	mobility reduction||stave off||initial wave	
+other NPIs||have allowed||control of subsequent disease spread	we||refer||to as other NPIs have allowed	other NPIs||have allowed||control of disease spread	we||refer||to other NPIs have allowed	
+methodology propose||be applied to||other respiratory diseases	methodology we propose||be applied to||other respiratory diseases	methodology propose||is||novel	methodology propose||be applied to||respiratory diseases	
+
+Abstract 14
+Several studies||assessed||effect of pre-morbid exposure	Several studies||assessed to||proton pump inhibitors PPIs on disease course	Several studies||assessed||effect of exposure	Several studies||assessed to||proton pump inhibitors PPIs on disease course in COVID 19 patients	
+August 15 2021||is in||Croatia	based matched cohort study||embraced in||adults diagnosed up to August 15 2021	matched cohort study||embraced in||adults diagnosed up to August 15 2021	based cohort study||embraced in||adults diagnosed up to August 15 2021	
+patients||were classified Considering||over-the-counter OTC availability of PPIs	patients||were classified Considering||over-the-counter OTC availability	patients||were classified Considering||OTC availability of PPIs	patients||were classified Considering||OTC availability	
+Subsets||were exactly matched in||respect	Subsets||were mutually matched in||respect	Subsets||were mutually exactly matched in||respect	Subsets||were matched in||respect	
+contrast||was considered||most informative for effect of PPIs	contrast||was considered||informative for effect of PPIs	contrast||was considered||most informative for effect	contrast||was considered||informative for effect	
+332389||were||PPI non-users	18170||were||possible users	332389||were||Among 433609 COVID 19 patients PPI non-users	
+Users||were||matched to 17334	Users||were||matched	
+
+
+
+Abstract 15
+study||aims||investigate	study||investigate||health related quality of life	study||aims||to investigate	study||investigate||related quality of life	
+study||is cross-sectional study of||COVID 19 survivors	study||is study of||COVID 19 survivors	study||is cross-sectional study of||COVID 19 survivors living	study||is study of||COVID 19 survivors living	
+Data||were collected from||previously diagnosed COVID 19 participants	Data||were collected from||previously diagnosed COVID 19 participants confirmed	Data||were collected from||diagnosed COVID 19 participants	Data||were collected from||COVID 19 participants confirmed by RT PCR test via door to door interviews in eight different divisions	
+Brief||COPE||inventory	Bengali||translated For||data collection	Brief Quality QOLBREF questionnaires||were||used	
+data collection period||was from||June 2020	data collection period||was from||June 2020 to March 202	Males||were||affected by COVID 19 than females 27.62 607	Males||were affected by||COVID 19	
+data collection period||was from||June 2020	data collection period||was from||June 2020 to March 202	Males||were||affected by COVID 19 than females 27.62 607	Males||were affected by||COVID 19	
+data collection period||was from||June 2020	data collection period||was from||June 2020 to March 202	Males||were||affected by COVID 19 than females 27.62 607	Males||were affected by||COVID 19	
+data collection period||was from||June 2020	data collection period||was from||June 2020 to March 202	Males||were||affected by COVID 19 than females 27.62 607	Males||were affected by||COVID 19	
+data collection period||was from||June 2020	data collection period||was from||June 2020 to March 202	Males||were||affected by COVID 19 than females 27.62 607	Males||were affected by||COVID 19	
+data collection period||was from||June 2020	data collection period||was from||June 2020 to March 202	Males||were||affected by COVID 19 than females 27.62 607	Males||were affected by||COVID 19	
+data collection period||was from||June 2020	data collection period||was from||June 2020 to March 202	Males||were||affected by COVID 19 than females 27.62 607	Males||were affected by||COVID 19	
+predominant coping strategy||coping||followed by problem focused coping	predominant coping strategy||coping||focused coping	predominant coping strategy||coping||focused coping with emotion	predominant coping strategy||coping||followed by problem focused coping with emotion	
+area||showed in||participants	co-morbidities||showed in||participants	Marital status||showed in||participants	occupation||showed in||participants	
+study||represents||real scenario of nationwide health	study||represents||scenario of nationwide health	study||represents||real scenario of health	study||represents||scenario of health	
+
+Abstract 16
+Schizophrenia patients||show||increased disabilities	Schizophrenia patients||show||disabilities	
+magnesium levels||activation of||interleukin IL -6	lowered magnesium levels||activation of||interleukin IL -6	
+study||assessed||Brief Assessment of Cognition	study||assessed||World Health Association QoL instrument Abbreviated version	study||assessed||World Health Association QoL Abbreviated version	study||assessed||World Health Association QoL version	
+first vector||extracted from||various symptom domains symptomatome	latent vector||extracted from||BACs scores	latent vector||extracted by||generalized cognitive deterioration G CoDe index	first vector||extracted from||symptom domains symptomatome	
+interleukin IL -6||helper Th||-17 axis	
+interleukin IL -6||helper Th||-17 axis	
+latter features||are manifestations of||namely social worsening index	latter features||are manifestations of||social worsening index	latter features||are manifestations of||common core	latter features||are manifestations of||namely worsening index	
+
+Abstract 17
+Primary biliary cholangitis PBC||is chronic inflammatory autoimmune disease of||biliary cells	Primary biliary cholangitis PBC||is chronic inflammatory autoimmune disease of||biliary epithelial cells	Primary biliary cholangitis PBC||is inflammatory autoimmune disease of||biliary cells	Primary biliary cholangitis PBC||is chronic inflammatory disease of||biliary cells	
+aim||is summarize||imaging features of PBC	aim||examine||correlation between PBC features	aim||is summarize||imaging features	aim||examine||correlation between PBC clinicopathological features	
+laboratory data||were collected for||patients diagnosed	laboratory data||were||collected	laboratory data||were collected for||patients diagnosed for PBC	laboratory data||were collected retrospectively for||patients diagnosed	
+Biochemical data||were compared between||male v.s.	Biochemical data||were compared between||v.s.	data||were compared between||male v.s.	Biochemical data||were||compared	
+
+
+273 patients||diagnosed with||PBC	
+Non-specific hepatic parenchymal disease||were||features	Non-specific parenchymal disease||were||features	Non-specific hepatic disease||were||features	hepatic parenchymal disease||were||features	
+
+LAD||was reported in||38 47 of PBC	LAD||was reported in||38 47 PBC	LAD||was||reported	
+imaging characteristics||were||frequently seen	imaging characteristics||were frequently seen in||men	imaging characteristics||were||more frequently seen	imaging characteristics||were seen in||men	
+AMA negative PBC patients||had distributions to||AMA positive PBC patients	negative PBC patients||had distributions to||AMA positive PBC patients	AMA negative PBC patients||had distributions to||PBC patients	negative PBC patients||had distributions to||PBC patients	
+PBC||summarized||features of PBC	PBC||summarized||clinicopathological features of PBC	PBC||summarized||features	PBC||summarized||clinicopathological features	
+study||avoid over-testing in||real world practice	study||would assist in||diagnosis of PBC	study||avoid over-testing in||world practice	study||avoid in||real world practice	
+
+Abstract 18
+treatment||is with||commonest causative agent	
+overwhelming number||associated At||Nakivale refugee camp	overwhelming number||often associated At||Nakivale refugee camp	overwhelming number||associated with||poor living conditions	overwhelming number||often associated with||poor living conditions	
+prevalence||determine||antimicrobial susceptibility patterns of isolated pathogens	prevalence||determine||antimicrobial susceptibility patterns of pathogens	prevalence||determine||susceptibility patterns of isolated pathogens	refugees||is in||Nakivale refugee settlement	
+study||was||cross-sectional study	study||was||cross-sectional	study||was||study	
+Prevalence||was||24.1 52/216	
+majority 86 39.81||were from||DR Congo	
+commonest causative agent||was||Staphylococcus aureus followed by Escherichia coli 21/52 40.38	commonest causative agent||was||Staphylococcus aureus followed	commonest causative agent||was||Staphylococcus aureus	causative agent||was||Staphylococcus aureus followed by Escherichia coli 21/52 40.38	
+Multidrug||isolates accounted||for 26.92 14/52	Multidrug||resistant isolates accounted||for 26.92 14/52	
+30 58||were Out||52 Extended Spectrum Beta Lactamase organisms ESBLs	30 58||were Out||52 Spectrum Beta Lactamase organisms ESBLs	
+9 30||were||non-ESBL producers	9 30||were||while non-ESBL producers	9 30||were||producers	9 30||were||while producers	
+
+prevalence||is high with||Staphylococcus aureus	prevalence||is high as||commonest causes of UTI	prevalence||is||high with Staphylococcus aureus as causes	prevalence||is||high with Staphylococcus aureus as causes of UTI	
+high rate||treat||UTI	rate||treat||UTI	
+prevalence||is||high	refugees||is in||Nakivale settlement	common ESBL genes||are||blaTEM	ESBL genes||are||blaTEM	
+
+Abstract 19
+disruptions||is in||psychological functioning	related pathological dissociation||is phenomenon||involves	related pathological dissociation||is multidimensional phenomenon||involves	related pathological dissociation||is||multidimensional phenomenon	
+dissociation||lacks||synthesized neurobiological model	dissociation||lacks||neurobiological model	dissociation||lacks||synthesized model	dissociation||lacks||model	
+we||examined||connectivity of three core neurocognitive networks	we||examined||functional connectivity of three core networks	we||examined||connectivity of three core networks	we||examined||functional connectivity	
+Participants||varied||levels of pathological dissociation	91 adult women||is with||history of childhood trauma	Participants||were||91 adult women	Participants||varied||levels of dissociation	
+Participants||provided||interview data about pathological dissociation	Participants||provided||interview data	Participants||provided||interview data about dissociation	
+childhood maltreatment||found After||controlling for age	PTSD symptom severity||found After||controlling for age	childhood maltreatment||found After||controlling	PTSD symptom severity||found After||controlling	
+we||isolated||unique connectivity markers	we||isolated||unique connectivity markers linked	we||isolated||connectivity markers	we||isolated||connectivity markers linked to depersonalization derealization	
+
+treatment engagement||facilitate||recovery from PTSD	treatment engagement||recovery from||PTSD	treatment engagement||facilitate||recovery	neural correlates||may serve as||potential targets treatment engagement facilitate	
+results||underscore dissociation assessment as||crucial in care settings	results||underscore dissociation assessment as||crucial in clinical care settings	results||underscore dissociation assessment as||crucial	results||underscore as||crucial in care settings	
+
+Abstract 20
+
+18 59y||completed||cross-sectional web survey	59y||completed||cross-sectional web survey	18 59y||completed||web survey	59y||completed||web survey	
+weighting||resulted in||quasi-representative population sample	based sampling||resulted in||quasi-representative population sample	weighting||resulted in||population sample	sampling||resulted in||quasi-representative population sample	
+We||compared||Natsal COVID data	We||compared||Natsal COVID data with	
+Reported need||were||analysed	unmet need||were||analysed	Reported need||were analysed among||participants	Reported unmet need||were||analysed	
+Odds ratios||adjusted for||age aOR	
+
+
+Chlamydia||were||reported by younger participants	men||reporting||sex partnersa	men||reporting||same sex partnersa	Chlamydia||were||commonly reported by younger participants	
+
+differential access||continued during||first year of COVID 19 pandemic	differential access||continued during||year of COVID 19 pandemic	differential access||continued during||first year	differential access||continued during||year	
+
+large inequalities||persisted among||typically those at greatest STI HIV risk	large inequalities||persisted among||typically those at STI HIV risk	large inequalities||persisted among||those at greatest STI HIV risk	inequalities||persisted among||typically those at greatest STI HIV risk	
+Key MessagesMany MSM||people of||Black ethnicity	
+Our compared inequalities||is in||access to key interventions using	
+stronger associations||were During||pandemic Natsal COVID	associations||were During||pandemic Natsal COVID	associations||is with||chlamydia testing for MSM	associations||is with||HIV testing for women reporting	
+stronger associations||were compared during||COVID 19 pandemic	stronger associations||were during||COVID 19 pandemic	stronger associations||is with||cervical screening	stronger associations||were compared among||smokers	
+
+
+Abstract 21
+based epidemiology||is||promising approach	epidemiology||is||promising approach	based epidemiology||is||approach	epidemiology||is||promising	
+
+serial stratified randomized samplings||estimate||prevalence of anti-SARS-CoV-2 antibodies	stratified randomized samplings||estimate||prevalence of anti-SARS-CoV-2 antibodies	serial randomized samplings||estimate||prevalence of anti-SARS-CoV-2 antibodies	serial stratified samplings||estimate||prevalence of anti-SARS-CoV-2 antibodies	
+Model analysis||revealed||significant temporal differences in epidemic peaksthe average incidence rate	Model analysis||revealed||significant differences in epidemic peaksthe average incidence rate	Model analysis||revealed||significant temporal differences in epidemic average incidence rate	Model analysis||revealed||temporal differences in epidemic peaksthe average incidence rate	
+estimated average prevalence rates||correlated with||wastewater correlation	estimated prevalence rates||correlated with||wastewater correlation	estimated average prevalence rates||correlated well with||wastewater correlation	average prevalence rates||correlated with||wastewater correlation	
+weekly unit increase||is in||wastewater concentration of SARS CoV 2	
+health department incidence rates||vastly underestimate||true community incidence	health department incidence rates||underestimate||true community incidence	health department incidence rates||vastly underestimate||community incidence	health department incidence rates||underestimate||community incidence	
+Research||reported||case rates	Research||reported||clinical case rates	COVID 19 infected individuals||are biased due||wide range of factors	COVID 19 infected individuals||are biased from||access to concerns	
+alternative||support||community monitoring	alternative||support community monitoring based||fecal shedding of virus	alternative||support based||fecal shedding of virus	alternative||support community monitoring based||shedding of virus	
+We||examined||English literature	We||examined English literature until||February 24 2022 on Web of Science	We||examined English literature until||February 24 2022 on Web with seroprevalence	We||examined English literature until||February 24 2022 on Web of Science with seroprevalence	
+We||identified||six studies	
+
+results||build||longitudinal model	results||be used||build	results||be used||to build	results||build||model	
+
+testing data||include||significant number of false positive results	testing data||include||significant number of false results	testing data||include||number of false positive results	testing data||include||number of false results	
+convenience sampling||obtained||data reporting	convenience sampling||obtained||data from health department	convenience sampling||obtained||data from health department reporting	convenience sampling||obtained||data reporting seriously	
+based epidemiology||may||may method of estimating	epidemiology||be effective||estimating	based epidemiology||may||In contrast may method of estimating	based epidemiology||may||may cost effective method of estimating	
+
+Abstract 22
+Atrial fibrillation AF||is major cause with||high prevalence among elderly	Atrial fibrillation AF||is major cause with||prevalence among elderly	fibrillation AF||is major cause with||high prevalence among elderly	Atrial fibrillation AF||is cause with||high prevalence among elderly	
+Surgery||is known||AFhowever	
+purpose||was identify||Single Nucleotide Polymorphisms	purpose||was identify||Nucleotide Polymorphisms	purpose||was identify||Single Nucleotide Polymorphisms associated	purpose||was identify||Single Nucleotide Polymorphisms associated with AF	
+UK Biobank||conduct||Genome Wide Association Study GWAS	Association Study GWAS||identify||variants	UK Biobank||conduct||Association Study GWAS	Association Study GWAS||identify||variants associated with AF	
+initial discovery GWAS||was performed in||patients	discovery GWAS||was performed in||patients	initial discovery GWAS||was||performed	discovery GWAS||was||performed	
+cases||were defined In||unique non-surgical cohort	cases||were defined within||30 days after surgery	cases||were defined as||newly diagnosed AF	cases||were defined In||non-surgical cohort	
+threshold||was||set	
+144,196 surgical patients||were left After||quality control	144,196 surgical patients||were left for||analysis	surgical patients||were left After||quality control	surgical patients||were left for||analysis	
+Two variants||reached||statistical significance	variants||reached||statistical significance	Two variants||reached||significance	variants||reached||significance	
+Two variants||were replicated in||unique non-surgical cohort	Two variants||were replicated in||non-surgical cohort	variants||were replicated in||unique non-surgical cohort	variants||were replicated in||non-surgical cohort	
+other loci||were associated in||unique non-surgical cohort	other loci||were associated in||non-surgical cohort	other loci||were significantly associated in||unique non-surgical cohort	Several loci||were associated in||unique non-surgical cohort	
+we||identified||2 variants	we||identified In||GWAS analysis of large national biobank	we||identified In||GWAS analysis of national biobank	we||identified In||GWAS analysis of large biobank	
+Two variants||were replicated in||unique non-surgical cohort	variants||were replicated in||unique non-surgical cohort	Two variants||were replicated in||non-surgical cohort	Two variants||were subsequently replicated in||non-surgical cohort	
+findings||bring||new insight in genetics of postoperative AF	findings||bring||insight in genetics of postoperative AF	findings||bring||new insight in genetics of AF	findings||bring||insight in genetics of AF	
+
+Abstract 23
+Solid organ transplant recipients||have attenuated responses to||SARS CoV 2 vaccines	organ transplant recipients||have attenuated responses to||SARS CoV 2 vaccines	Solid organ transplant recipients||have attenuated to||SARS CoV 2 vaccines	Solid organ transplant recipients||have attenuated||immune responses	
+3rd V3 doses||is in||kidney transplant population	we||report on||immune responses	we||report on||responses to V3 doses of heterologous vaccines	we||report on||responses to 3rd V3 doses of heterologous vaccines	
+724 kidney transplant recipients||were screened following||3 primary doses of SARS CoV2 vaccine	kidney transplant recipients||were screened following||3 primary doses of SARS CoV2 vaccine	724 kidney transplant recipients||were screened following||3 doses of SARS CoV2 vaccine	724 kidney transplant recipients||were prospectively screened following||3 primary doses of SARS CoV2 vaccine	
+322 patients||were sampled with||69 assessment of SARS CoV 2 T cell responses	322 patients||were sampled for||anti-S	322 patients||were sampled post-V4 for||anti-S	322 patients||were sampled with||69 undergoing assessment of SARS CoV 2 T cell responses	
+vaccine doses||were||received	
+
+Results586 724 80.9 patients||were||remained at 31 21 51 days post-V3	Results586 724 patients||were||remained at 31 21 51 days post-V3	Results586 724 80.9 patients||were||remained at 31 21 51 days	Results586 724 patients||were||remained at 31 21 51 days	
+Results586 724 80.9 patients||were||remained at 31 21 51 days post-V3	Results586 724 patients||were||remained at 31 21 51 days post-V3	Results586 724 80.9 patients||were||remained at 31 21 51 days	Results586 724 patients||were||remained at 31 21 51 days	
+Seropositive patients||post-V3 had||greater anti-S	Seropositive patients||had||greater anti-S	patients||post-V3 had||greater anti-S	Seropositive patients||post-V3 had||anti-S	
+De novo seroconversion post-V4||occurred in||15/60 25.0 patients	
+
+Anti-S post-V4||were||sequentially greater	Anti-S post-V4||were||greater	post-V4||were||sequentially greater	post-V4||were||greater	
+
+Conclusion||remain following||3 - doses of SARS CoV 2 vaccines	Conclusion||remain||seronegative	Conclusion||remain with||poor T cell responses	Conclusion||remain following||3 - doses	
+
+Abstract 24
+Parkinsons disease PD||is||progressive neurodegenerative disorder	Parkinsons disease PD||is||disorder characterized by accumulation of abnormal isoforms of alpha synuclein	Parkinsons disease PD||is||progressive disorder characterized by accumulation of abnormal isoforms of alpha synuclein	Parkinsons disease PD||is||disorder characterized by accumulation of isoforms of alpha synuclein	
+pathologic state alpha synuclein||causes||damage as alpha synuclein accumulates	pathologic state alpha synuclein||causes||neuronal damage as alpha synuclein accumulates	pathologic state alpha synuclein||causes||neuronal damage alpha synuclein accumulates	pathologic state alpha synuclein||causes||damage alpha synuclein accumulates	
+alpha synuclein||remains||controversial	
+We||have previously developed||Removed SIR computational model	We||have developed||Removed SIR computational model	We||have previously developed||SIR computational model	We||have developed||SIR computational model	
+We||test||Removed SIR computational model	We||test||SIR computational model	We||test||Removed SIR model	We||Here test||Removed SIR computational model	
+brain deformation||progresses in||regions	brain deformation||progresses in||subcortical regions	
+SIR model||using||structural connectivity	SIR model||using||connectivity	SIR model||using structural connectivity from||diffusion MRI	SIR model||using from||diffusion MRI	
+geometry||contribute to||model fit	connectome topology||contribute to||model fit	geometry||significantly contribute to||model fit	connectome topology||significantly contribute to||model fit	
+
+Removed SIR computational model||investigate||multifactorial neurodegenerative diseases	SIR computational model||investigate||multifactorial neurodegenerative diseases	Removed SIR computational model||investigate||neurodegenerative diseases	Removed SIR computational model||investigate||multifactorial diseases	
+
+Abstract 25
+Recommendations||consider||consistency of application	Recommendations||consider||consistency of application resulting	Recommendations||consider||consistency resulting	Recommendations||consider||consistency resulting in treatment decisions	
+biases||underlying||patient mortality risk	biases||underlying||mortality risk	we||examine||four datasets	we||characterize||impact of choices	
+treatment decisions||produce||step function changes in risk near clinically important round number cutoffs	step function changes||is in||risk near clinically important round number cutoffs	we||document||two types of suboptimalities	treatment decisions||produce||step function changes in risk near important round number cutoffs	
+outcomes||improved over||decades of refinement of clinical practice	outcomes||improved over||decades of refinement of practice	outcomes||improved over||decades of refinement	outcomes||improved over||decades	
+we||provide||recommendations for clinical practice	we provide||can transform||challenges of statistical confounding	we||provide||recommendations for practice	we provide||can transform||challenges statistical confounding	
+
+Abstract 26
+Photoplethysmography PPG||is||cost method measure	Photoplethysmography PPG||is||cost method to measure	Photoplethysmography PPG||is||low cost method measure	Photoplethysmography PPG||is||low cost method to measure	
+method||is widely used in||various wearable devices	method||is used in||various wearable devices	method||is widely used in||wearable devices	method||is widely used in||various devices	
+Samsung smartwatches||are||PPG based open source wristbands	Samsung smartwatches||are||based open source wristbands	Samsung smartwatches||are||PPG based source wristbands	Samsung smartwatches||are||PPG based open source wristbands used	
+PPG||is highly susceptible to||motion artifacts	PPG||However is highly susceptible to||motion artifacts	PPG||is susceptible to||motion artifacts	PPG||However is susceptible to||motion artifacts	
+validation study||investigate||accuracy of PPG based wearable devices	validation study||investigate||accuracy of based wearable devices	validation study||is required||investigate	validation study||investigate||accuracy of wearable devices	
+PPG||evaluate||accuracy of PPG signals	PPG||evaluate||accuracy of PPG signals collected	PPG||evaluate||accuracy of PPG signals collected by Samsung Gear Sport smartwatch	PPG||evaluate||accuracy of PPG signals collected by Samsung Gear Sport smartwatch in terms	
+PPG||conducted||24 hours monitoring	PPG||conducted||24 hours monitoring using	
+they||engaged in||routines	they||engaged in||daily routines	
+PPG||evaluated||HR parameters	PPG||evaluated during||sleep	PPG||evaluated HR parameters during||sleep	
+HR parameters||extracted from||smartwatch	
+PPG||employed||Pearson correlation coefficient	PPG||employed Pearson correlation coefficient For||comparison	PPG||employed For||comparison	
+PPG||found at_time||HR	PPG||found correlation at_time||HR	
+mean biases||were||while moderate during sleep	mean biases||were||low	mean biases||were moderate during||sleep	mean biases||were low||moderate	
+regression analysis||showed||low error variances of HR	regression analysis||showed||error variances of HR	regression analysis||showed||low error variances	regression analysis||showed||error variances	
+HR parameters||indicated||significantly low positive correlations	HR parameters||indicated||significantly low correlations	HR parameters||indicated||low positive correlations	HR parameters||indicated||positive correlations	
+HR parameters||had||moderate mean biases	HR parameters||had||moderate biases	HR parameters||had||mean biases	RMSSD||showed||low mean biases	
+HR parameters||indicated||high error variances	HR parameters||indicated||error variances	AVNN||had error variance In||addition	AVNN||had error variance||HR parameters indicated	
+Samsung smartwatch||provides||acceptable HR	Samsung smartwatch||provides||HR	Samsung smartwatch||provides during||sleep time	Samsung smartwatch||provides HR during||sleep time	
+HR||show||satisfactory accuracy	HR parameters||have||high errors	AVNN||show||satisfactory accuracy	HR parameters||have||errors	
+
+Abstract 27
+work||presents||methodology	superspreading events||occurring on||key calendar dates	superspreading events||occurring on||calendar dates	work||presents to||recreate	
+COVID 19 pandemic dynamics||is in||Mexico	method||is illustrated by||COVID 19 pandemic dynamics	method||is illustrated by||COVID 19 pandemic dynamics up	method||is illustrated by||COVID 19 pandemic dynamics in Mexico	
+dynamic||is||determined by	dynamic||is||determined	
+historical changes||are||estimated	historical changes||are||First estimated	historical changes||is in||effective contact rate on predetermined dates	changes||are||estimated	
+information||is||Then used	information||is used||will similar	to forecast||be||similar	trends||observed in||past	
+other conditions||are assumed||remain in time scale of projections	other conditions||are assumed||to remain in time scale of projections	other conditions||are||assumed	other conditions||are assumed||to remain in time scale	
+methodology||avoids||necessity of fixing values of dynamic parameters	methodology||avoids||necessity of values of dynamic parameters	methodology||avoids||necessity of fixing values of parameters	methodology||necessity of||fixing values of dynamic parameters	
+Results||show||that considering dates	Results||show||that considering key dates	Results||show||that	
+
+Abstract 28
+we||calculated||vaccine volume	dead space||is in||syringe	we||calculated In||current study	we||calculated in||syringe	
+hypothetical situation||uses as||ChAdox1 n CoV vial	hypothetical situation||uses vial as||ChAdox1 n CoV vial	hypothetical situation||uses||vial	hypothetical situation||uses with||similar size	
+we||used||fill	we||used||to fill as five vials of ChAdox1 n CoV	we||used||distilled water	we||used||fill as five vials of ChAdox1 n CoV	
+
+1 mL syringe needle||administer||ChAdox1 n CoV vaccine	1 mL syringe needle||administer into||12 doses using	1 mL syringe needle||administer ChAdox1 n CoV vaccine into||12 doses using	1 mL syringe needle||administer into||12 doses	
+vaccine volume||save||budget of low dead space syringe LDS	vaccine volume||save||budget of dead space syringe LDS	vaccine volume||save||budget of low space syringe LDS	vaccine volume||save||budget of space syringe LDS	
+
+Abstract 29
+gap||has in||has focus of researches for decades	gap||has in||has focus	gap||has in||has focus of researches	
+new knowledge||must work||successful implementation means	new knowledge||must work in||particular environments	new knowledge||must work||Although successful implementation means	entire process||be executed by||individual institutes	
+intermediate step||help||ensure	intermediate step||help||to ensure	step||help||ensure	step||help||to ensure	
+development||was based||on we infinitE	development||was based||we infinitE	development||was||based	we||infinitE||model	
+general good practice methodology||organised||editing of development of general good practice methodology	general good practice methodology||organised||editing of development of general practice methodology	general good practice methodology||organised||editing of development of good practice methodology	general good practice methodology||organised||editing	
+general good practice methodology||was finalized After||pilot testing	general practice methodology||was finalized After||pilot testing	general good practice methodology||was finalized to||other topics	good practice methodology||was finalized After||pilot testing	
+general good practice methodology||presented in||paper	general good practice methodology||presented in||detail	general practice methodology||presented in||paper	general practice methodology||presented in||detail	
+general good practice methodology||has also proved Beside||pilot topic of institutional process of resuscitation	general good practice methodology||has proved Beside||pilot topic of institutional process of resuscitation	general practice methodology||has also proved Beside||pilot topic of institutional process of resuscitation	good practice methodology||has also proved Beside||pilot topic of institutional process of resuscitation	
+general good practices||demonstrate||evidence in operation	general practices||demonstrate||evidence in operation	good practices||demonstrate||evidence in operation	general good practices||demonstrate evidence Compared||guidelines	
+
+healthcare institutions||build on||these	healthcare institutions||build on||these in healthcare institutions	
+Further studies||could explore||applicability of general good practice methodology	Further studies||could explore||applicability of general practice methodology	Further studies||could explore||applicability of general good practice methodology at levels	Further studies||could explore||applicability of good practice methodology	
+
+Abstract 30
+treatment||increase||probability of survival of patient	treatment||increase||probability of survival	early recognition||is||essential	recognition||is||essential	
+sepsis||is||syndrome influenced by site of infection	sepsis||is||complex syndrome influenced by site of infection	sepsis||is||complex syndrome	sepsis||is||syndrome influenced by site	
+early diagnosis||is challenge||must evaluated	early diagnosis||So is challenge||must evaluated	diagnosis||is challenge||must evaluated	diagnosis||So is challenge||must evaluated	
+list involved||is provided In||paper	list involved||is||provided	list||is provided In||paper	list||is||provided	
+emergency room||model based||machine learning	emergency room||is||proposed	
+gradient||was||trained	gradient||was trained with||cross validation	
+model||achieve up to||97 mean per class accuracy	
+
+Abstract 31
+
+529 variant first||emerged with||extensive escape from neutralizing immunity	529 variant first||emerged with||extensive escape from neutralizing immunity elicited	previous infection||is with||other variants	529 variant first||emerged with||escape from neutralizing immunity	
+Two new sub-lineages||are emerging with||changes relative to BA .1	Two new sub-lineages||are now emerging with||changes relative to BA .1	Two new sub-lineages||are emerging with||changes	Two new sub-lineages||are now emerging with||changes	
+BA .1 infection||is in||participants	We||isolated||BA .4 .5 viruses	We||isolated||live BA .4 .5 viruses	We||tested||BA .4 viruses	
+
+FRNT50||declined In||vaccinated BA .1 breakthroughs	FRNT50||declined for||3.2-fold for BA .5 2.6-fold	FRNT50||declined In||BA .1 breakthroughs	FRNT50||declined for||3.2-fold 2.6-fold	
+
+
+BA .4||is in||particularly unvaccinated group	
+
+Abstract 32
+infectious particles||be shared through||respiration	particles||be shared through||respiration	infectious particles||be||shared	whether can passed||has||Despite obvious knowledge has postulated	
+unique opportunity||fully examine||provocative idea	unique opportunity||examine||provocative idea	opportunity||fully examine||provocative idea	opportunity||examine||provocative idea	
+herd immunity||may||may manifested	
+
+Abstract 33
+Omicron variant outbreak||is in||Shanghai	
+Omicron variant outbreak||is in||Shanghai	
+Clinical data vaccination status||were||collected	data vaccination status||were||collected	
+Relative risks RR||assess||effect of vaccination	Relative risks RR||assess||effect on symptomatic infection	Relative risks RR||were calculated||assess	Relative risks RR||assess||effect of vaccination on infection	
+
+
+
+Two dose COVID 19 vaccination||reduced||risks of symptomatic infection	dose COVID 19 vaccination||reduced||risks of symptomatic infection	Two dose COVID 19 vaccination||reduced by||95 CI	dose COVID 19 vaccination||reduced by||95 CI	
+104 40.2||had cough at_time||duration7 0.8 days	104 40.2||had at_time||duration7 0.8 days	16.4||had||transient leukopenia307 86	epidemiological exposure||is in||household 69.1	
+wide dissemination||is in||community	
+Asymptomatic infection||is common among||Omicron infected children	Asymptomatic infection||is common among||infected children	Asymptomatic infection||is common among||children	infection||is common among||Omicron infected children	
+COVID 19 vaccination||can offer||protection against symptomatic infection	COVID vaccination||can offer||protection against symptomatic infection	COVID 19 vaccination||can offer||protection against infection	COVID vaccination||can offer||protection against infection	
+
+Abstract 34
+CCP||was early||COVID	
+Results||demonstrate||clear therapeutic role	Results||demonstrate||role for very low antibody content CCP for severe SARS CoV 2 infection	Results||demonstrate||role for low antibody content CCP for severe SARS CoV 2 infection	Results||demonstrate||therapeutic role for low antibody content CCP for severe SARS CoV 2 infection	
+Underlying||is broad heterogeneity in||concentrations of neutralizing antibodies	Underlying||is heterogeneity in||concentrations of neutralizing antibodies	broad heterogeneity||is in||concentrations of neutralizing antibodies	Underlying||is broad heterogeneity in||concentrations of antibodies	
+present study||evaluate||n Ab titer threshold	present study||was designed||evaluate	present study||evaluate n Ab titer threshold for||very low antibody content CCP	present study||evaluate for||very low antibody content CCP	
+n defined CCP||conducted||double blind phase 2 study evaluate	n defined CCP||conducted||double blind phase 2 study to evaluate	n defined CCP||conducted||blind phase 2 study evaluate	n defined CCP||conducted||blind phase 2 study to evaluate	
+n defined CCP||conducted||double blind phase 2 study evaluate	n defined CCP||conducted||double blind phase 2 study to evaluate	n defined CCP||conducted||blind phase 2 study evaluate	n defined CCP||conducted||blind phase 2 study to evaluate	
+low antibody content CCP||is with||n Ab titers	
+Adverse events||were contrasted by||very low antibody content CCP titer	Adverse events||were contrasted by||low antibody content CCP titer	Adverse events||were contrasted by||antibody content CCP titer	events||were contrasted by||very low antibody content CCP titer	
+primary clinical outcome||was time with||mortality evaluated as secondary outcomes	primary clinical outcome||was time to||hospital discharge	primary clinical outcome||was time with||mortality	primary clinical outcome||was time with||mortality evaluated as outcomes	
+316 participants||were screened||55 received CCP	participants||were screened||55 received CCP	316 participants||were screened||55 received CCP respectively	316 participants||were||screened	
+Participants||were median of||61 years of age IQR 52 67	Participants||were median of||61 years	Participants||were||median	
+
+
+time||was shorter among||participants accounting for death	time||was shorter among||participants accounting as competing event hazard ratio 94 95	time||was shorter among||participants accounting as event hazard ratio 94 95	time||was shorter among||participants receiving accounting as competing event hazard ratio 94 95	
+participants||receiving||that	low antibody content CCP||is with||lower n Ab titer CCP	low antibody content CCP||is with||n Ab titers 1:640	2 trial||is in||high risk population of patients	
+further study||defined as||1:640 in treatment of COVID 19	further study||defined as||1:640 in treatment	study||defined as||1:640 in treatment of COVID 19	study||defined as||1:640 in treatment	
+present study||was supported by||UNC Health Foundation	present study||was supported by||UNC Health Foundation at Chapel Hill with funding	present study||was supported by||UNC Health Foundation at University of North Carolina	present study||was supported by||UNC Health Foundation at Chapel Hill with funding from North Carolina Coronavirus Relief Fund	
+laboratory assays||were partially supported by||NIH NCI NIAID SeroNet Serocenter of Excellence Award U54 CA260543	laboratory assays||were supported by||NIH NCI NIAID SeroNet Serocenter of Excellence Award U54 CA260543	laboratory assays||were partially supported by||NIH NCI NIAID SeroNet Serocenter	laboratory assays||were supported by||NIH NCI NIAID SeroNet Serocenter	
+low antibody content CCP||has emergency use authorization in||outpatient settings	antibody content CCP||has emergency use authorization in||outpatient settings	low antibody content CCP||has in||outpatient settings	low antibody content CCP||has||emergency use authorization from FDA	
+
+One major limitation||is in||interpreting published clinical trials	
+low antibody content CCP||is more effective than||lower antibody content CCP	low antibody content CCP||is more effective than||antibody content CCP	low antibody content CCP||is effective than||lower antibody content CCP	antibody content CCP||is more effective than||lower antibody content CCP	
+We||searched||PubMed articles	We||searched||PubMed articles published	We||searched||PubMed articles published between February 1 2020	We||using||terms	
+We||filtered by||selecting Clinical Trial	We||filtered respectively by||selecting Clinical Trial	We||filtered by||selecting Trial	We||filtered by||Clinical Trial	
+We||identified||25 label studies in hospitalized patients	We||identified||25 open label studies in hospitalized patients	We||identified||25 open label studies	We||identified||25 label studies in patients	
+Preliminary reports||show||assays	Preliminary reports||show||assays used	reports||show||assays	reports||show||assays used	
+study||deliberately infused||that	study||infused||that	low antibody content CCP||is with||n Ab 1:640	
+Post-hoc analyses||showed||survival benefit	analyses||showed||survival benefit	monoclonal antibody||suggesting||that	based therapies||role in||improving outcomes of severe COVID 19	
+CCP||is with||high n Ab titer 1:640	
+hazard ratio||accounting as||competing event	hazard ratio||accounting for||death	hazard ratio||accounting as||event	low antibody content CCP titer||was||94 95 CI	
+
+
+CCP||recovery of||patients admitted with COVID 19	CCP||expedites compared||very low antibody content CCP with n Ab 1:640 1:640	CCP||recovery of||patients admitted with COVID	CCP||expedites recovery compared||very low antibody content CCP with n Ab 1:640 1:640	
+
+policy guidance||raising||threshhold of n Ab 1:160	policy guidance||raising||threshhold	Further investigation||is with||n Ab 1:640	
+
+Abstract 35
+People||are lagging behind in||national vaccination campaign	People||are lagging in||national vaccination campaign	People||are lagging behind in||vaccination campaign	People||are lagging in||vaccination campaign	
+special population||be prioritized in||vaccination program	population||be prioritized in||vaccination program	special population||be||prioritized	population||be||prioritized	
+we||address||vaccine hesitation in special population	we||address||vaccine hesitation in population	we||assessed||safety	we||assessed In||retrospective study	
+4 study sites||is in||China	aged 40 years||is In||retrospective study	
+primary safety outcome||was incidence within||14 days after dose of vaccination	primary safety outcome||was incidence of||adverse events	safety outcome||was incidence within||14 days after dose of vaccination	safety outcome||was incidence of||adverse events	
+primary safety outcome||was geometric mean titer GMT to||living SARS CoV 2 virus	primary safety outcome||was geometric titer GMT to||living SARS CoV 2 virus	primary safety outcome||was mean titer GMT to||living SARS CoV 2 virus	primary safety outcome||was geometric mean titer GMT to||SARS CoV 2 virus	
+retrospective study||is registered with||ChiCTR.org.cn ChiCTR2200058281	study||is registered with||ChiCTR.org.cn ChiCTR2200058281	retrospective study||is||registered	study||is||registered	
+
+
+significant difference||was contributed by||fatigue in groups	significant difference||was contributed by||fatigue	significant difference||was mainly contributed by||fatigue in groups	significant difference||was mainly contributed by||fatigue	
+
+
+
+
+antibody GMTs||decrease in||group	neutralizing antibody GMTs||decrease in||group	
+people||living with||chronic disease	people||living with||disease	
+overall trend||was consistent||slightly different in subgroup	overall trend||was consistent||Although slightly different in subgroup	immunogenicity||is slightly different compared||that of special population	overall trend||was consistent||Although different in subgroup	
+evidence||address||vaccine hesitancy for seniors	evidence||address||vaccine hesitancy for seniors living	evidence||address||vaccine hesitancy	evidence||address||vaccine hesitancy for seniors living with diseases	
+
+
+Abstract 36
+Data||are||limited	
+study||investigate||relationship between intraoperative EtCO2 level	study||investigate||relationship between intraoperative EtCO2 level in patients	study||was designed||investigate	study||investigate||relationship between EtCO2 level	
+Kyoto University Hospital||conducted||retrospective cohort study	Kyoto University Hospital||conducted||retrospective cohort study involving	Kyoto University Hospital||conducted||cohort study	Kyoto University Hospital||conducted||cohort study involving	
+Kyoto University Hospital||classified with||EtCO2	Kyoto University Hospital||classified with||mean EtCO2	
+time effect||was evaluated by||measuring	time effect||was||whereas evaluated by measuring	EtCO2 value||was||below 35 mmHg	EtCO2 value||was||when below 35 mmHg	
+outcome||was||postoperative organ dysfunction	outcome||was||postoperative organ dysfunction defined	outcome||was||organ dysfunction defined as composite of at least one organ dysfunction	outcome||was||organ dysfunction	
+1,428 34||had||organ dysfunction	1,428 34||had||postoperative organ dysfunction	
+association||was found between||low EtCO2	association||increased||postoperative organ dysfunction adjusted risk ratio	association||increased||postoperative organ dysfunction risk ratio	association||increased||organ dysfunction adjusted risk ratio	
+organ dysfunction||adjusted||risk ratio	postoperative organ dysfunction||adjusted||risk ratio	
+
+
+Abstract 37
+Preconception care PCC||is provision of||biomedical health interventions to women	Preconception care PCC||is provision of||health interventions to women	Preconception care PCC||is provision of||biomedical health interventions	Preconception care PCC||is provision of||health interventions	
+PCC||is||valuable	
+comprehensive preconception care provision||is in||Kisumu County	
+
+data||was collected In||cross-sectional study	data||was collected in||health facilities	data||was collected in||health facilities using	data||was||In study collected in health facilities	
+
+
+significance||was determined||quite low at 39	significance||was determined||at P value quite low at 39	significance||was determined||low at 39	significance||was determined||quite low	
+significance||was observed||lower in primary level facilities KEPH level 2	significance||was observed||to lower in primary level facilities KEPH level 2	significance||was observed||lower in primary level facilities KEPH level 2 at 34	significance||was observed||to lower in primary level facilities KEPH level 2 at 34	
+service||was||HIV prevention	service||is with||highest implementation level	
+service||was||environmental risk exposure reduction at 13	service||was||environmental risk exposure reduction	service||is with||highest implementation level	service||was||risk exposure reduction at 13	
+provision||was||fragmented	Provision||was relatively low at||39	Provision||was||relatively low	Provision||was low at||39	
+provision||differed across||service levels	
+
+Abstract 38
+COVID 19 pandemic||resulted in||shift from traditional face to face care provision towards	COVID 19 pandemic||resulted in||rapid shift from traditional face to face care provision towards	COVID pandemic||resulted in||shift from traditional face to face care provision towards	COVID 19 pandemic||resulted in||shift from traditional face care provision towards	
+substantial barriers||are||encountered	barriers||are||encountered	manner||have varied considerably across||settings	manner||However have varied considerably across||settings	
+
+investigations||evaluate||how different	strategies||influence||implementation outcomes	investigations||evaluate||different	We||aimed||to identify	
+Studies||took||published between January 2010	Studies||focused on||strategies for achieving	Studies||took||if published between January 2010	systematic review||was conducted with||five databases	
+included studies||were assessed for||risk of bias	included studies||were assessed for||risk	included studies||were||assessed	
+Data||were||synthesised	
+
+implementation strategies||were||identified	
+
+Using||appears||helpful method of supporting	Using||appears||to helpful method of supporting	Using||appears||method of supporting	Using||appears||to method of supporting	
+Further research||test||impact of specific implementation strategies	Further research||test||impact on implementation outcomes	Further research||test||impact of implementation strategies	Further research||is needed||test	
+
+Abstract 39
+We||here examine||associations of polygenic risk score of antidepressant response	We||here examine||associations	We||here examine||associations of risk score of antidepressant response	We||here examine||associations of published polygenic risk score of antidepressant response	
+
+We||tested to||stratify between antidepressants	We||tested||utility of PRS AR	We||also tested to||stratify between antidepressants	We||tested utility to||stratify between antidepressants	
+
