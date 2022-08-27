@@ -1,5 +1,5 @@
 ﻿'''
-    :data preprocessing
+    :data preprocess for MetaMap and obtain the results from MetaMap
     input: cleaned and cr_resolved data
     output: results from Metamap
 '''

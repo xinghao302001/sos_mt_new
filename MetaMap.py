@@ -1,5 +1,7 @@
-## Metamap_V3
-
+'''
+ A wrapper for datapreprocessForMetamAp_and_getMMres
+ : change the MetaMap path.
+'''
 import subprocess
 import json
 
@@ -8,10 +10,11 @@ import json
 
 def get_metamap_output(sentence):
     '''
-    Given a sentence return the metamap best matching result (score, ID, term)
+    Given a sentence return the metamap result
     sentence: str
 
     '''
+    ### change the MetaMap
     p = subprocess.Popen(f"echo {str(sentence)} | /home/xinghaowu/MasterThesis/MT_new_2022_06/UMLS/public_mm/bin/metamap20 --JSONn -I ", stdout=subprocess.PIPE, shell=True)
     output, err = p.communicate()
     output = str(output, 'utf-8')

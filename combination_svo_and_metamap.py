@@ -9,6 +9,10 @@ nlp = spacy.load("en_core_web_sm")
 
 # =================================================================================#
 def handleMMres(mmres_filepath):
+    '''
+    : obtaining the sentences from MetaMap,
+    and obtain the dict{Phrases:semTypes} for each sentence of each paragraph if it is existed.
+    '''
     mmres = []
     with open(mmres_filepath, 'r', encoding="utf-8") as fr:
         for res in fr.readlines():
@@ -63,6 +67,9 @@ def handleMMres(mmres_filepath):
 # ======================================================================================= #
 
 def getSVOs_w_sem_and_wo_sem(all_paras_uttexts,all_paras_Sems):
+    '''
+    Using the results from the handleMMres func, then Obtain svos for each sentence if it is existed.
+    '''
     all_svos_wo_sem = []
     all_svos_w_sem = []
 
@@ -90,6 +97,8 @@ def getSVOs_w_sem_and_wo_sem(all_paras_uttexts,all_paras_Sems):
                     _verb = triplet[1]
                     _obj = triplet[2]
 
+                    ### Caculating the scores between each Phrases and _sub, _verb, _obj, part respectively
+                    ### choosing the highest matching scores for each part.
                     sim_sub = [str_sim(k, _sub) for k in sent_sem_keys]
                     sim_sub_max_score = max(sim_sub)
                     sim_sub_max_index = sim_sub.index(max(sim_sub))
@@ -100,6 +109,7 @@ def getSVOs_w_sem_and_wo_sem(all_paras_uttexts,all_paras_Sems):
                     sim_obj_max_score = max(sim_obj)
                     sim_obj_max_index = sim_obj.index(max(sim_obj))
 
+                    ### Choose the corresponding semTypes via the highest score of SemTypes
                     _sub_sem_key = sent_sem_keys[sim_sub_max_index]
                     _sub_sem = para_sems[j].get(_sub_sem_key)
                     _verb_sem_key = sent_sem_keys[sim_verb_max_index]
@@ -113,10 +123,12 @@ def getSVOs_w_sem_and_wo_sem(all_paras_uttexts,all_paras_Sems):
                     _triplet_w_sem = (sub_w_sem + "||" + _verb + "||" + obj_w_sem)
                     _triplet_wo_sem = (_sub + "||" + _verb + "||" + _obj)
 
+                    ### Caculating the triple_scores for each triple that are used to control the triple output
                     triple_scores = (sim_sub_max_score + sim_verb_max_score + sim_obj_max_score) / 3
                     _triplets_w_sem_to_scores[_triplet_w_sem] = triple_scores
                     _triplets_wo_sem_to_scores[_triplet_wo_sem] = triple_scores
 
+              ### Control the output of triples
                 if len(_triplets_wo_sem_to_scores) <= 2:
                     ##TODO reducing Duplicated
                     sent_triplet_wo_sem.append(list(_triplets_wo_sem_to_scores.keys()))

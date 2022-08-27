@@ -1,3 +1,6 @@
+'''
+: cleaning the raw texts with removing section names.
+'''
 import re
 import xlwt
 import xlrd

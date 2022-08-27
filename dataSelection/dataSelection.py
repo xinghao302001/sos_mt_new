@@ -1,6 +1,9 @@
 ﻿import pandas as pd
 import re
 from selectSciStatementSents import *
+
+
+##### define more sci statement word sets #####
 sci_statement_words_set_1 = {"Strengths and limitations of the study", "KEY MESSAGES", "Conclusions and Implications", "What New Information Does This Article Contribute", "Novelty and Significance", "HIGHTLIGHTS",
                           "Statement of Contribution", "Whats Known on this Subject", "What This Study Adds","What is New","KEY POINTS","WHAT IS NEW HERE","AUTHOR SUMMARY","Importance","What are the new findings","Strengthslimitations of this study",
                           "Author contributions","What is already known about this subject","Key Findings", "Summary of findings","IMPORTANCE",
@@ -57,7 +60,17 @@ def read_data(path, flags=1):
     return id_lists, abs_lists
 
 
-def data_selections(abss_id, abss_list,sci_set,flags):
+def data_selections(abss_id, abss_list, sci_set,flags):
+    '''
+    main function for data selection using some Wrappers defined from selectSciStatementSents.py
+    :param abss_id: list
+    :param abss_list: list
+    :param sci_set: sci_word set
+    :param flags: the n-th turn selection
+    :return:
+    '''
+
+    ### round = 1, select sentences with sci_set_1, sci_set_2, and sci_set_3
     if flags == 1:
         id_to_abss = list(zip(abss_id,abss_list))
         # first_selected_sents_for_abss_w_id, not_bio_abs_id = bio_filtering_for_abs(id_to_abss)
@@ -69,6 +82,7 @@ def data_selections(abss_id, abss_list,sci_set,flags):
         final_selected_sents_for_abs = first_selected_sents_for_abss + third_selected_sents_for_abss + second_selected_sents_for_abss
         final_not_statement_sents_for_abs = not_statement_abs_c
 
+    ### round = n, select sentences with sci_set_4, sci_set_5, sci_set_6, sci_set_7. sci_set...
     else:
         id_to_abss = list(zip(abss_id, abss_list))
         final_selected_sents_for_abs, final_not_statement_sents_for_abs = select_more_turns(id_to_abss,
@@ -77,7 +91,7 @@ def data_selections(abss_id, abss_list,sci_set,flags):
 
 
 def rewrite_selected_sents(seletced_,not_selected_,_selected_path, not_selected_path,flag=False):
-    if flag==True:
+    if flag == True:
         data_df = pd.DataFrame(columns=['id','abstract'])
         data_id = []
         data_abs =[]

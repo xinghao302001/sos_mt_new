@@ -1,4 +1,6 @@
-﻿
+﻿'''
+ cleaning the raw texts, but keeping some section names.
+'''
 import re
 import xlwt
 import xlrd

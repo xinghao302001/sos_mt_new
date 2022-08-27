@@ -62,8 +62,7 @@ def list_to_str(tokens):
         return ' '.join([item for item in tokens])
     else:
         return ''
-def str_sim_max_index(a,b):
-    pass
+
 
 
 

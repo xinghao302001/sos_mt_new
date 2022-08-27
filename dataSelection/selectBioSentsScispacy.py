@@ -1,33 +1,32 @@
 '''
  Based on Scispacy
- : REQUIRE SERVER TO DO THIS STEP
+ : After selecting statement sents, using SciSpacy to select bio-state-sents
 '''
 import scispacy
 import spacy
 
-#Core models
+# Core models
 import en_core_sci_sm
 import en_core_sci_lg
 
-#NER specific models
+# NER specific models
 import en_ner_craft_md
 import en_ner_bc5cdr_md
 import en_ner_jnlpba_md
 import en_ner_bionlp13cg_md
 
-#Tools for extracting & displaying data
-from spacy import displacy
-import pandas as pd
 from V7.Utils import *
 from tqdm import tqdm
 import pandas as pd
 import numpy as np
+
+
 nlp_cr = en_ner_craft_md.load()
 nlp_bc = en_ner_bc5cdr_md.load()
 nlp_bi = en_ner_bionlp13cg_md.load()
 nlp_jn = en_ner_jnlpba_md.load()
 
-#####-------------------------- Cleaning STATEMENT SENTS---------------------#####
+
 sci_statement_words_set_1 = {"Strengths and limitations of the study", "KEY MESSAGES", "Conclusions and Implications", "What New Information Does This Article Contribute", "Novelty and Significance", "HIGHTLIGHTS",
                           "Statement of Contribution", "Whats Known on this Subject", "What This Study Adds","What is New","KEY POINTS","WHAT IS NEW HERE","AUTHOR SUMMARY","Importance","What are the new findings","Strengthslimitations of this study",
                           "Author contributions","What is already known about this subject","Key Findings", "Summary of findings","IMPORTANCE",
@@ -63,6 +62,11 @@ data_selected = pd.read_csv('/content/drive/MyDrive/MasterThesis/V7/Bert_sub_tas
                             )
 
 data_selected_abs = data_selected['abstract'].tolist()
+
+#####-------------------------- Cleaning STATEMENT SENTS---------------------#####
+'''
+    : eliminating the explicit words that indicate a sentence is a statement.
+'''
 all_selected_statement_sents = []
 revisited = []
 for _,ele_ in tqdm(enumerate(data_selected_abs), total=len(data_selected_abs)):
@@ -97,6 +101,9 @@ for _,ele_ in tqdm(enumerate(data_selected_abs), total=len(data_selected_abs)):
 
 
 #####-------------------------- Getting Bio Statements Sents---------------------#####
+'''
+    : getting the bio_state_sents using bio statements
+'''
 bio_and_statement_sents = []
 not_bio_and_statment_sents = []
 for _,sent in tqdm(enumerate(all_selected_statement_sents),total=len(all_selected_statement_sents)):
