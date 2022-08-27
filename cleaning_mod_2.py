@@ -12,13 +12,7 @@ class A:
     a = 0
 
 def read(data_path, num_sheet , num_col):
-    """
-    读取数据
-    :param data_path: xls文件位置
-    :param num_sheet: 第几个sheet
-    :param num_col: 第几列数据
-    :return: 队列
-    """
+
     data = xlrd.open_workbook(data_path)
     table = data.sheets()[num_sheet-1]
 

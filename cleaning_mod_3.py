@@ -9,7 +9,7 @@ import pandas as pd
 data_path = "data/data.xls"
 save_path = "data/clean_data_mod_3.xls"
 class A:
-    # 静态变量
+
     a = 0
 
 def read(data_path, num_sheet , num_col):
