@@ -1,6 +1,6 @@
 ﻿import re
 from tqdm import tqdm
-from V7.Utils import *
+from Utils import *
 import spacy
 nlp = spacy.load("en_core_sci_sm")
 

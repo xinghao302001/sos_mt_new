@@ -15,7 +15,7 @@ import en_ner_bc5cdr_md
 import en_ner_jnlpba_md
 import en_ner_bionlp13cg_md
 
-from V7.Utils import *
+from Utils import *
 from tqdm import tqdm
 import pandas as pd
 import numpy as np
